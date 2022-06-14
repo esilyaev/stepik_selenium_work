@@ -1,0 +1,5 @@
+*.pyc
+*.log
+.pytest_cache
+selenium-venv/
+__pycache__/
