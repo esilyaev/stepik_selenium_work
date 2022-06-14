@@ -3,3 +3,4 @@
 .pytest_cache
 selenium-venv/
 __pycache__/
+driver/
