@@ -1,0 +1,79 @@
+1655212932285	geckodriver	INFO	Listening on 127.0.0.1:64304
+1655212932641	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64305" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hm/f4pgpcm55l1_bnnwqnxtsl300000gn/T/rust_mozprofileMDSvzE"
+WebDriver BiDi listening on ws://localhost:64305
+2022-06-14 16:22:15.966 plugin-container[7105:8210620] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:22:15.966 plugin-container[7105:8210620] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-14 16:22:16.078 plugin-container[7105:8210620] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:22:16.078 plugin-container[7105:8210620] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-14 16:22:16.079 plugin-container[7105:8210664] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:22:16.079 plugin-container[7105:8210664] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://localhost:64305/devtools/browser/9d49bfa7-5ef8-4808-b1e0-b44b2c0824dd
+1655212964682	geckodriver	INFO	Listening on 127.0.0.1:64342
+1655212965206	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64343" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hm/f4pgpcm55l1_bnnwqnxtsl300000gn/T/rust_mozprofilevKgWvh"
+2022-06-14 16:22:45.529 plugin-container[7117:8211331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:22:45.529 plugin-container[7117:8211331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1655212965550	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:64343
+2022-06-14 16:22:45.575 plugin-container[7117:8211331] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:22:45.575 plugin-container[7117:8211331] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-14 16:22:45.575 plugin-container[7117:8211358] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:22:45.575 plugin-container[7117:8211358] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hm/f4pgpcm55l1_bnnwqnxtsl300000gn/T/rust_mozprofilevKgWvh/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1655212966191	Marionette	INFO	Listening on port 64355
+DevTools listening on ws://localhost:64343/devtools/browser/9fef87b9-c261-4a07-ab69-54666775b1db
+Read port: 64355
+1655212966263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+1655212969023	Marionette	INFO	Stopped listening on port 64355
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655213060647	geckodriver	INFO	Listening on 127.0.0.1:64392
+1655213061169	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64393" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hm/f4pgpcm55l1_bnnwqnxtsl300000gn/T/rust_mozprofileRbvdpy"
+1655213061709	Marionette	INFO	Marionette enabled
+2022-06-14 16:24:21.725 plugin-container[7153:8212386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:24:21.725 plugin-container[7153:8212386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-14 16:24:21.755 plugin-container[7153:8212386] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:24:21.755 plugin-container[7153:8212386] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-14 16:24:21.755 plugin-container[7153:8212384] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:24:21.755 plugin-container[7153:8212384] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:64393
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hm/f4pgpcm55l1_bnnwqnxtsl300000gn/T/rust_mozprofileRbvdpy/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1655213062558	Marionette	INFO	Listening on port 64405
+DevTools listening on ws://localhost:64393/devtools/browser/ea303713-57fe-416a-bef9-abd89e8d564a
+Read port: 64405
+1655213062641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1655213065493	Marionette	INFO	Stopped listening on port 64405
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1655213116780	geckodriver	INFO	Listening on 127.0.0.1:64437
+1655213117302	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64438" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hm/f4pgpcm55l1_bnnwqnxtsl300000gn/T/rust_mozprofilebJnKAc"
+2022-06-14 16:25:17.773 plugin-container[7210:8213240] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:25:17.794 plugin-container[7210:8213240] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1655213117798	Marionette	INFO	Marionette enabled
+2022-06-14 16:25:17.850 plugin-container[7210:8213240] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:25:17.850 plugin-container[7210:8213240] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-06-14 16:25:17.850 plugin-container[7210:8213243] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-06-14 16:25:17.850 plugin-container[7210:8213243] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:64438
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/hm/f4pgpcm55l1_bnnwqnxtsl300000gn/T/rust_mozprofilebJnKAc/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+1655213118609	Marionette	INFO	Listening on port 64449
+DevTools listening on ws://localhost:64438/devtools/browser/ac90351d-ac51-4154-84cd-ce27b7523ee3
+Read port: 64449
+1655213118662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 758: ReferenceError: oscar is not defined
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
+1655213122147	Marionette	INFO	Stopped listening on port 64449
